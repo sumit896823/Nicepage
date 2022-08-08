@@ -1,0 +1,115 @@
+body{background-color: rgb(48, 48, 48);}
+.css{border: 1px solid none;height: 70px;width: 1500px;background-color: #f2f2f2;z-index: 10;position: fixed;display: flex;flex-direction: rows;align-items: center;justify-content:start;margin-top: -10px;}
+.css1{border:1px solid none;height: 50px;width: 300px;display: flex;justify-content:space-between;flex-direction: rows;}
+.css2{border:1px solid none;height: 50px;width: 300px;display: flex;justify-content:space-around;flex-direction: rows;margin-left: 330px;}
+.css2 a{border:1px solid none;height: 40px;width: 40px;padding: 1% .3% .5% 1.6%;}
+.css2 a:hover{background-color: rgba(135, 207, 235, 0.263);}
+.css3{border: 1px solid none;height: 100px;width: 1500px;background-color:#1f203a;display: flex;flex-direction: rows;align-items: center;justify-content:space-around;}
+.css3a{border: 1px solid none;height: 60px;width: 60px;align-content: center;}
+.css3a i{font-size:38px;color:white}
+.css3a i:hover{color:orange}
+.css4{border: .1px solid none;height: 1110px;width: 1500px;margin-top: 100px;display: flex;flex-direction: rows;flex-wrap: wrap;justify-content: center;}
+.css4b{border:.1px solid none;height: 370px;width: 497px;background-image: url('../img/img2.jpg');background-size: 100% 100%;}
+.css4c{border:.1px solid none;height: 370px;width: 497px;background-image: url('../img/img1.jpg');background-size: 100% 100%;}
+.css4d{border:.1px solid none;height: 370px;width: 497px;background-image: url('../img/img3.jpg');background-size: 100% 100%;}
+.css4e{border:.1px solid none;height: 370px;width: 497px;background-image: url('../img/img4.jpg');background-size: 100% 100%;}
+.css4f{border:.1px solid none;height: 370px;width: 497px;background-image: url('../img/img5.jpg');background-size: 100% 100%;}
+.css4g{border:.1px solid none;height: 370px;width: 497px;background-image: url('../img/img6.jpg');background-size: 100% 100%;}
+.css4h{border:.1px solid none;height: 370px;width: 497px;background-image: url('../img/img7.jpg');background-size: 100% 100%;}
+.css4i{border:.1px solid none;height: 370px;width: 497px;background-image: url('../img/img8.jpg');background-size: 100% 100%;}
+.css4j{border:.1px solid none;height: 370px;width: 497px;background-image: url('../img/img9.jpg');background-size: 100% 100%;}
+.css4a1{border:.1px solid none;height: 370px;width: 497px;position: relative;transition:background-color .5s;display: flex;justify-content: center;align-items: center;}
+.css4b:hover .css4a1{background-color:rgba(206,184,162,1);}
+.css4c:hover .css4a1{background-color:rgba(206,184,162,1)}
+.css4d:hover .css4a1{background-color:rgba(206,184,162,1)}
+.css4e:hover .css4a1{background-color:rgba(206,184,162,1)}
+.css4f:hover .css4a1{background-color:rgba(206,184,162,1)}
+.css4g:hover .css4a1{background-color:rgba(206,184,162,1)}
+.css4h:hover .css4a1{background-color:rgba(206,184,162,1)}
+.css4i:hover .css4a1{background-color:rgba(206,184,162,1)}
+.css4j:hover .css4a1{background-color:rgba(206,184,162,1)}
+.p{color:white;font-size: 23px;font-family: arial;display: none;width:55%;height: 10%;}
+.p {text-decoration: none;}
+.css4b:hover .css4a1 .p{display: block;}
+.css4c:hover .css4a1 .p{display: block;}
+.css4d:hover .css4a1 .p{display: block;}
+.css4e:hover .css4a1 .p{display: block;}
+.css4f:hover .css4a1 .p{display: block;}
+.css4g:hover .css4a1 .p{display: block;}
+.css4h:hover .css4a1 .p{display: block;}
+.css4i:hover .css4a1 .p{display: block;}
+.css4j:hover .css4a1 .p{display: block;}
+.css4b a{text-decoration: none;}
+.css4c a{text-decoration: none;}
+.css4d a{text-decoration: none;}
+.css4e a{text-decoration: none;}
+.css4f a{text-decoration: none;}
+.css4g a{text-decoration: none;}
+.css4h a{text-decoration: none;}
+.css4i a{text-decoration: none;}
+.css4j a{text-decoration: none;}
+.css5{border: 1px solid none;width: 1500px;height: 70px;color: white;font-family: arial;font-size: 18px;text-align: center;padding-top: 25px;}
+.css5 a{color:white;text-decoration:1px underline;}
+.css5 a:hover{text-decoration: none;color: rgb(197, 195, 195);}
+.css6{border:1px solid #1f203a;width: 1500px;height: 70px;color:white;background-color:#1f203a ;text-align: center;font-family: arial;display: flex;align-items: center;justify-content: center;}
+
+
+
+
+@media screen and (max-width:600px)
+{body{background-color: rgb(48, 48, 48);}
+.css{border: 1px solid none;height: 70px;width:96.7%;background-color: #f2f2f2;z-index: 10;position: fixed;display: flex;flex-direction: rows;align-items: center;justify-content:start;}
+.css1{border:1px solid none;height: 50px;width: 100px;display: flex;justify-content:space-between;flex-direction: rows;}
+.css2{border:1px solid none;height: 50px;width: 300px;display: flex;justify-content:space-around;flex-direction: rows;margin-left: 330px;display: none;}
+.css2 a{border:1px solid none;height: 40px;width: 40px;padding: 1% .3% .5% 1.6%;}
+.css2 a:hover{background-color: rgba(135, 207, 235, 0.263);}
+.css3{border: 1px solid none;height: 60px;width: 100%;background-color:#1f203a;display: flex;flex-direction: rows;align-items: center;justify-content:space-around;margin-top: none;}
+.css3a{border: 1px solid none;height: 40px;width: 40px;align-content: center;}
+.css3a i{font-size:34px;color:white}
+.css3a i:hover{color:orange}
+.css4{border: 1px solid none;height: 2450px;width: 100%;margin-top: 40px;position: absolut;}
+.css4b{border:.1px solid none;height: 270px;width: 100%;background-image: url('../img/img2.jpg');background-size: 100% 100%;}
+.css4c{border:.1px solid none;height: 270px;width: 100%;background-image: url('../img/img1.jpg');background-size: 100% 100%;}
+.css4d{border:.1px solid none;height: 270px;width: 100%;background-image: url('../img/img3.jpg');background-size: 100% 100%;}
+.css4e{border:.1px solid none;height: 270px;width: 100%;background-image: url('../img/img4.jpg');background-size: 100% 100%;}
+.css4f{border:.1px solid none;height: 270px;width: 100%;background-image: url('../img/img5.jpg');background-size: 100% 100%;}
+.css4g{border:.1px solid none;height: 270px;width: 100%;background-image: url('../img/img6.jpg');background-size: 100% 100%;}
+.css4h{border:.1px solid none;height: 270px;width: 100%;background-image: url('../img/img7.jpg');background-size: 100% 100%;}
+.css4i{border:.1px solid none;height: 270px;width: 100%;background-image: url('../img/img8.jpg');background-size: 100% 100%;}
+.css4j{border:.1px solid none;height: 270px;width: 100%;background-image: url('../img/img9.jpg');background-size: 100% 100%;}
+.css4a1{border:.1px solid none;height: 270px;width: 100%;position: relative;transition:background-color .5s;display:flex;justify-content: center;align-items: center;}
+.css4b:hover .css4a1{background-color:rgba(206,184,162,1);}
+.css4c:hover .css4a1{background-color:rgba(206,184,162,1)}
+.css4d:hover .css4a1{background-color:rgba(206,184,162,1)}
+.css4e:hover .css4a1{background-color:rgba(206,184,162,1)}
+.css4f:hover .css4a1{background-color:rgba(206,184,162,1)}
+.css4g:hover .css4a1{background-color:rgba(206,184,162,1)}
+.css4h:hover .css4a1{background-color:rgba(206,184,162,1)}
+.css4i:hover .css4a1{background-color:rgba(206,184,162,1)}
+.css4j:hover .css4a1{background-color:rgba(206,184,162,1)}
+.p{color:white;font-size: 17px;font-family: arial;display: none;width: 55%;height: 10%;}
+.p {text-decoration: none;}
+.css4b:hover .css4a1 .p{display: block;}
+.css4c:hover .css4a1 .p{display: block;}
+.css4d:hover .css4a1 .p{display: block;}
+.css4e:hover .css4a1 .p{display: block;}
+.css4f:hover .css4a1 .p{display: block;}
+.css4g:hover .css4a1 .p{display: block;}
+.css4h:hover .css4a1 .p{display: block;}
+.css4i:hover .css4a1 .p{display: block;}
+.css4j:hover .css4a1 .p{display: block;}
+.css4b a{text-decoration: none;}
+.css4c a{text-decoration: none;}
+.css4d a{text-decoration: none;}
+.css4e a{text-decoration: none;}
+.css4f a{text-decoration: none;}
+.css4g a{text-decoration: none;}
+.css4h a{text-decoration: none;}
+.css4i a{text-decoration: none;}
+.css4j a{text-decoration: none;}
+.css5{border: 1px solid none;width: 100%;height: 40px;color: white;font-family: arial;font-size: 15px;text-align: center;padding-top: 25px;}
+.css5 a{color:white;text-decoration:1px underline;}
+.css5 a:hover{text-decoration: none;color: rgb(197, 195, 195);}
+.css6{border:1px solid #1f203a;width: 100%;height: 60px;color:white;background-color:#1f203a ;text-align: center;font-family: arial;font-size:14px;display: flex;align-items: center;justify-content: center;}
+
+}
